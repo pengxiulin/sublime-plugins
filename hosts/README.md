@@ -2,7 +2,7 @@
 ===============
 高亮效果如下：
 
-![image](hosts/screenshot.png)
+![image](screenshot.png)
 
 注释：
 
