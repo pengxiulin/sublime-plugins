@@ -2,15 +2,15 @@
 
 # 虚拟测试环境
 # 静态资源
-10.10.224.112 virtuals.jd.com virtuals.360buy.com
-#192.168.193.145 virtuals.jd.com
+10.10.224.112 virtuals.hello.com virtuals.311buy.com
+#192.168.193.145 virtuals.hello.com
 
 10.10.225.199 passport.jd.net
-172.17.29.66 jipiao.360buy.com jipiao.jd.com
+172.17.29.66 jipiao.311buy.com jipiao.hello.com
 
 #度假shop端
-192.168.214.76 shop.dujia.jd.com
-#192.168.200.225 upload.erp.360buyimg.com img30.360buyimg.com
+192.168.214.76 shop.dujia.hello.com
+#192.168.200.225 upload.erp.311buyimg.com img30.311buyimg.com
 
 # 机票
 10.10.224.43 jipiao.jd.net
@@ -20,7 +20,7 @@
 127.0.0.1 adobeereg.com
 127.0.0.1 OCSP.SPO1.VERISIGN.COM
 
-127.0.0.1 www.jd.com
+127.0.0.1 www.hello.com
 
-127.0.0.1 misc.360buyimg.com
-127.0.0.1 360buyimg.com
+127.0.0.1 misc.311buyimg.com
+127.0.0.1 311buyimg.com
